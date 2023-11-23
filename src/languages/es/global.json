@@ -1,0 +1,24 @@
+{
+  "title": "| Desarrollador Frontend",
+  
+  "loading": "Cargando...",
+  
+  "birthday": {
+    "age": "edad",
+    "years-old": "años",
+    "time": "dias para mi cumpleaños"
+  },
+  "github": "Mi perfil de Github, donde subo mis proyectos.",
+  "projectsandtest": {
+    "title": "Proyectos y pruebas",
+    "description": "Aquí puedes encontrar algunos de mis proyectos, pruebas o experimentos."
+  },
+ 
+  "functions": {
+    "changeLanguage": "Cambiar idioma",
+    "changeTheme": "Cambiar tema",
+    "goToProjects": "Ir a los proyectos",
+    "noEnergy": "Dame energía"
+  },
+  "exp": "años de experiencia"
+}
