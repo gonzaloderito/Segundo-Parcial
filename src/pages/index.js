@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Inter } from 'next/font/google'
 import { AboutView } from '@/components/about/AboutView'
 import ThemeCard from "@/components/ThemeCard/ThemeCard";
-import LanguagueCard from "@/components/Language/LanguagueCard";
+import LanguagueCard from "@/components/Language/LanguageCard";
 import { BirthdayCardView } from "@/components/Birthday/BirthdayCardView";
 import LinkedinCard from "@/components/LinkedinCard/LinkedinCard";
 import ProjectsCard from "@/components/ProjectsCard/ProjectsCard";
